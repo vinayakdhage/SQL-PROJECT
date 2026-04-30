@@ -1,4 +1,5 @@
-Swiggy Sales Analysis Project
+Swiggy Sales Analysis Project:
+
   Swiggy Sales Data Analysis using SQL (Data Cleaning + Data Modeling + Business Insights)
 1.Project Overview-
    This project focuses on analyzing Swiggy food delivery data to extract meaningful business insights.
