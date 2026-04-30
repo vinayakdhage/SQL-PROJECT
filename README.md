@@ -16,15 +16,16 @@ Swiggy Sales Analysis Project:
 
 3. Dataset Details-
    
-  Location data (State, City, Area),Restaurant details,Dish and category,Order date,Price, rating, and rating count
+     Location data (State, City, Area),Restaurant details,Dish and category,Order date,Price, rating, and rating count
 
-5. Data Cleaning Steps-
+4. Data Cleaning Steps-
  - Handled NULL values
  - Removed duplicate records using CTE & ROW_NUMBER()
  - Checked for blank and inconsistent data
  - Ensured proper data types
 
 5. Data Modeling-
+   
    Fact Table:
      swiggy_orders
    Dimension Tables:
@@ -34,7 +35,7 @@ Swiggy Sales Analysis Project:
      dim_category
      dim_dish
  
- 6. Key KPIs
+ 7. Key KPIs
   - Total Orders
   - Total Revenue
   - Average Order Value
