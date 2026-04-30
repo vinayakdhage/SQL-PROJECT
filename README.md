@@ -3,6 +3,7 @@ Swiggy Sales Analysis Project:
   Swiggy Sales Data Analysis using SQL (Data Cleaning + Data Modeling + Business Insights)
 
 1.Project Overview-
+
    This project focuses on analyzing Swiggy food delivery data to extract meaningful business insights.
   It includes data cleaning, transformation, dimensional modeling, and advanced SQL analysis.
 
@@ -14,9 +15,10 @@ Swiggy Sales Analysis Project:
   - Identify top-performing cities, restaurants, and dishes
 
 3. Dataset Details-
+   
   Location data (State, City, Area),Restaurant details,Dish and category,Order date,Price, rating, and rating count
 
-4. Data Cleaning Steps-
+5. Data Cleaning Steps-
  - Handled NULL values
  - Removed duplicate records using CTE & ROW_NUMBER()
  - Checked for blank and inconsistent data
